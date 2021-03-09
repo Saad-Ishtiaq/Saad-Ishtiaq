@@ -8,16 +8,12 @@
 ### Education:
 - BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current
 
-### Skills:
-#### Soft
-- Persistent
-- Flexible
-- Enthusiastic
+### Skills:                                   
 
-#### Hard
-- Public Speaking
-- Writing
-- Project Management
+#### Soft                    Hard
+- Persistent                 - Public Speaking
+- Flexible                   - Project Management
+- Enthusiastic               - Writing    
 
 
 ### Frameworks, Libraries and Languages
