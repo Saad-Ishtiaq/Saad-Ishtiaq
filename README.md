@@ -10,10 +10,10 @@
 
 ### Skills:                                   
 
-#### Soft                    Hard
-- Persistent                 - Public Speaking
-- Flexible                   - Project Management
-- Enthusiastic               - Writing    
+#### Soft                |    ### Hard
+- Persistent             |    - Public Speaking
+- Flexible               |    - Project Management
+- Enthusiastic           |    - Writing    
 
 
 ### Frameworks, Libraries and Languages
