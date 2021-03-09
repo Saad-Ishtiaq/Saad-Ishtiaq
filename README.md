@@ -8,10 +8,17 @@
 ### Education:
 - BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current
 
-### Soft Skills:
+### Skills:
+#### Soft
 - Persistent
 - Flexible
 - Enthusiastic
+
+#### Hard
+- Public Speaking
+- Writing
+- Project Management
+
 
 ### Frameworks, Libraries and Languages
 <img align="left" alt="ASP.NET" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
