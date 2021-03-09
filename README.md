@@ -9,27 +9,10 @@ Education:
 BS IT from Punjab University College of Information Technology (PUCIT), Lahore - Current
 
 Frameworks, Libraries and Languages
-- ASP.NET
+- ASP.NET, .NET, Java, Html, CSS, Bootstrap, Javascript, React js, Angular, SQL, Android
 
-- .NET
 
-- Java
 
-- Html
-
-- CSS
-
-- Bootstrap
-
-- Javascript
-
-- React js
-
-- Angular
-
-- SQL
-
-- Android
 
 
 
