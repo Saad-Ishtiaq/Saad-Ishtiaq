@@ -9,12 +9,10 @@
 - BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current
 
 ### Skills:                                   
-
-#### Soft           and          Hard
-- Persistent                  Public Speaking
-- Flexible                    Project Management
-- Enthusiastic                Writing    
-
+#### Soft                 
+- Persistent, Flexible, Enthusiastic   
+#### Hard
+- Writing, Public Speaking, Project Management
 
 ### Frameworks, Libraries and Languages
 <img align="left" alt="ASP.NET" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
