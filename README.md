@@ -1,18 +1,52 @@
-## Hi there, I'm Saad Ishtiaq. 👋
+# Hi there, I'm Saad Ishtiaq 👋  
+**Software Engineer | Lifelong Learner | Problem Solver**
 
-### Self-Learner | Software Engineer
+## 🔭 Current Work  
+I’m currently working on building scalable, customer-facing web applications and backend systems using:  
+- **Frontend:** ReactJS, JavaScript, TypeScript, HTML, CSS, Redux, Bootstrap, MUI, TailwindCSS  
+- **Backend:** Ruby on Rails, Node.js, Express.js, Fastify  
+- **Database:** MySQL, PostgreSQL, MongoDB  
 
-- 🔭 I’m currently working on Android, React js and .NET Core , Full Stack Web Development and Mobile Computing
-- 🌱 I’m currently learning Software Engineering Skills
+## 🌱 What I'm Learning  
+I'm pursuing a **Master’s in Computer and System Sciences** at the University of Stockholm, focusing on:  
+- Foundations of Data Science  
+- Enterprise Computing and ERP Systems  
 
-### Education:
-- BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current
+## 💼 Professional Experience  
+- **Senior Software Engineer** at Devsinc:  
+   - Built and optimized scalable web apps with NodeJS, React, and Redis.  
+   - Led and mentored junior developers.  
+   - Enhanced API reliability through comprehensive unit and end-to-end testing.  
 
-### Skills:                                   
-#### Soft                 
-- Persistent, Flexible, Enthusiastic   
-#### Hard
-- Writing, Public Speaking, Project Management
+- **Software Engineer** at Devsinc:  
+   - Maintained scalable web apps using Ruby on Rails.  
+   - Dockerized applications for efficient deployments.  
+
+- **Full Stack Developer** at Saffron Pharma:  
+   - Collaborated with clients to deliver robust web solutions.  
+
+## 🚀 Projects  
+1. **Ecommerce App**  
+   - Integrated the FreedomPay payment gateway for secure transactions.  
+   - Streamlined processes for bookings, reservations, and food ordering.  
+
+2. **HealthCare App**  
+   - Developed a multi-platform solution connecting riders, labs, and doctors for efficient medical testing.  
+
+3. **AI-Powered Job Portal**  
+   - Built an AI-driven system for tailored job recommendations and recruitment efficiency.  
+
+## 💪 Skills  
+- **Client-Side:** ReactJS, Redux, TypeScript, HTML, CSS, Bootstrap, MUI  
+- **Server-Side:** Ruby on Rails, NodeJS, Express.js  
+- **DevOps:** AWS, Docker, Jenkins  
+- **Testing:** RSpec, Faker, FactoryBot, Jest, Cypress  
+- **Project Management:** Jira, Trello, Asana  
+
+## 📫 Connect with Me  
+- **Email:** [Saad-Ishtiaq@outlook.com](mailto:Saad-Ishtiaq@outlook.com)  
+- **LinkedIn:** [linkedin.com/in/saad-ishtiaq-600852191](https://linkedin.com/in/saad-ishtiaq-600852191)  
+- **GitHub:** [github.com/Saad-Ishtiaq](https://github.com/Saad-Ishtiaq)  
 
 ### Frameworks, Libraries and Languages
 <img align="left" alt="ASP.NET" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
