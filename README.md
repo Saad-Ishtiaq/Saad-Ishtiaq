@@ -10,7 +10,8 @@ I’m currently working on building scalable, customer-facing web applications a
 ## 🌱 What I'm Learning  
 I'm pursuing a **Master’s in Computer and System Sciences** at the University of Stockholm, focusing on:  
 - Foundations of Data Science  
-- Enterprise Computing and ERP Systems  
+- Enterprise Computing and ERP Systems
+- Project Management
 
 ## 💼 Professional Experience  
 - **Senior Software Engineer** at Devsinc:  
