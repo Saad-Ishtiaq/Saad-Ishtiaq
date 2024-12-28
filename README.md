@@ -70,9 +70,6 @@ I'm pursuing a **Master’s in Computer and System Sciences** at the University 
 
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Ruby on Rails" width="35px" src="https://raw.githubusercontent.com/github/explore/01f34fa1e1cf9ebf4045c8f2a15645ea4c1e24c1/topics/ruby-on-rails/ruby-on-rails.png" />
-<img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/4b3db72a7aeb4ed5ec0aee2b9d8c2e5a1b24b70c/topics/typescript/typescript.png" />
-<img align="left" alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/1bc0224fa04e4e9a310e75520c4db3b923cc9c7d/topics/tailwind/tailwind.png" />
 
 
 <br />
